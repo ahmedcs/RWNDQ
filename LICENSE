@@ -1,165 +1,115 @@
-                   GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+                        THE CRAPL v0 BETA 1
 
 
-  This version of the GNU Lesser General Public License incorporates
-the terms and conditions of version 3 of the GNU General Public
-License, supplemented by the additional permissions listed below.
+0. Information about the CRAPL
 
-  0. Additional Definitions.
+If you have questions or concerns about the CRAPL, or you need more
+information about this license, please contact:
 
-  As used herein, "this License" refers to version 3 of the GNU Lesser
-General Public License, and the "GNU GPL" refers to version 3 of the GNU
-General Public License.
+   Matthew Might
+   http://matt.might.net/
 
-  "The Library" refers to a covered work governed by this License,
-other than an Application or a Combined Work as defined below.
 
-  An "Application" is any work that makes use of an interface provided
-by the Library, but which is not otherwise based on the Library.
-Defining a subclass of a class defined by the Library is deemed a mode
-of using an interface provided by the Library.
+I. Preamble
 
-  A "Combined Work" is a work produced by combining or linking an
-Application with the Library.  The particular version of the Library
-with which the Combined Work was made is also called the "Linked
-Version".
+Science thrives on openness.
 
-  The "Minimal Corresponding Source" for a Combined Work means the
-Corresponding Source for the Combined Work, excluding any source code
-for portions of the Combined Work that, considered in isolation, are
-based on the Application, and not on the Linked Version.
+In modern science, it is often infeasible to replicate claims without
+access to the software underlying those claims.
 
-  The "Corresponding Application Code" for a Combined Work means the
-object code and/or source code for the Application, including any data
-and utility programs needed for reproducing the Combined Work from the
-Application, but excluding the System Libraries of the Combined Work.
+Let's all be honest: when scientists write code, aesthetics and
+software engineering principles take a back seat to having running,
+working code before a deadline.
 
-  1. Exception to Section 3 of the GNU GPL.
+So, let's release the ugly.  And, let's be proud of that.
 
-  You may convey a covered work under sections 3 and 4 of this License
-without being bound by section 3 of the GNU GPL.
 
-  2. Conveying Modified Versions.
+II. Definitions
 
-  If you modify a copy of the Library, and, in your modifications, a
-facility refers to a function or data to be supplied by an Application
-that uses the facility (other than as an argument passed when the
-facility is invoked), then you may convey a copy of the modified
-version:
+1. "This License" refers to version 0 beta 0 of the Community
+    Research and Academic Programming License (the CRAPL). 
 
-   a) under this License, provided that you make a good faith effort to
-   ensure that, in the event an Application does not supply the
-   function or data, the facility still operates, and performs
-   whatever part of its purpose remains meaningful, or
+2. "The Program" refers to the medley of source code, shell scripts,
+    executables, objects, libraries and build files supplied to You,
+    or these files as modified by You.
 
-   b) under the GNU GPL, with none of the additional permissions of
-   this License applicable to that copy.
+   [Any appearance of design in the Program is purely coincidental and
+    should not in any way be mistaken for evidence of thoughtful
+    software construction.]
 
-  3. Object Code Incorporating Material from Library Header Files.
+3. "You" refers to the person or persons brave and daft enough to use
+    the Program.
 
-  The object code form of an Application may incorporate material from
-a header file that is part of the Library.  You may convey such object
-code under terms of your choice, provided that, if the incorporated
-material is not limited to numerical parameters, data structure
-layouts and accessors, or small macros, inline functions and templates
-(ten or fewer lines in length), you do both of the following:
+4. "The Documentation" refers to the Program.
 
-   a) Give prominent notice with each copy of the object code that the
-   Library is used in it and that the Library and its use are
-   covered by this License.
+5. "The Author" probably refers to the caffeine-addled graduate
+    student that got the Program to work moments before a submission
+    deadline.
 
-   b) Accompany the object code with a copy of the GNU GPL and this license
-   document.
 
-  4. Combined Works.
+III. Terms
 
-  You may convey a Combined Work under terms of your choice that,
-taken together, effectively do not restrict modification of the
-portions of the Library contained in the Combined Work and reverse
-engineering for debugging such modifications, if you also do each of
-the following:
+1. By reading this sentence, You have agreed to the terms and
+   conditions of this License.
+  
+2. If the Program shows any evidence of having been properly tested
+   or verfied, You will disregard this evidence.
 
-   a) Give prominent notice with each copy of the Combined Work that
-   the Library is used in it and that the Library and its use are
-   covered by this License.
+3. You agree to hold the Author free from shame, embarrassment or
+   ridicule for any hacks, kludges or leaps of faith found within the
+   Program.
 
-   b) Accompany the Combined Work with a copy of the GNU GPL and this license
-   document.
+4. You recognize that any request for support for the Program will be
+   discarded with extreme prejudice.
 
-   c) For a Combined Work that displays copyright notices during
-   execution, include the copyright notice for the Library among
-   these notices, as well as a reference directing the user to the
-   copies of the GNU GPL and this license document.
+5. The Author reserves all rights to the Program, except for any
+   rights granted under any additional licenses attached to the
+   Program.
 
-   d) Do one of the following:
 
-       0) Convey the Minimal Corresponding Source under the terms of this
-       License, and the Corresponding Application Code in a form
-       suitable for, and under terms that permit, the user to
-       recombine or relink the Application with a modified version of
-       the Linked Version to produce a modified Combined Work, in the
-       manner specified by section 6 of the GNU GPL for conveying
-       Corresponding Source.
+IV. Permissions
 
-       1) Use a suitable shared library mechanism for linking with the
-       Library.  A suitable mechanism is one that (a) uses at run time
-       a copy of the Library already present on the user's computer
-       system, and (b) will operate properly with a modified version
-       of the Library that is interface-compatible with the Linked
-       Version.
+1. You are permitted to use the Program to validate published
+   scientific claims.
 
-   e) Provide Installation Information, but only if you would otherwise
-   be required to provide such information under section 6 of the
-   GNU GPL, and only to the extent that such information is
-   necessary to install and execute a modified version of the
-   Combined Work produced by recombining or relinking the
-   Application with a modified version of the Linked Version. (If
-   you use option 4d0, the Installation Information must accompany
-   the Minimal Corresponding Source and Corresponding Application
-   Code. If you use option 4d1, you must provide the Installation
-   Information in the manner specified by section 6 of the GNU GPL
-   for conveying Corresponding Source.)
+2. You are permitted to use the Program to validate scientific claims
+   submitted for peer review, under the condition that You keep
+   modifications to the Program confidential until those claims have
+   been published.
+ 
+3. You are permitted to use and/or modify the Program for the
+   validation of novel scientific claims if You make a good-faith
+   attempt to notify the Author of Your work and Your claims prior to
+   submission for publication.
+ 
+4. If You publicly release any claims or data that were supported or
+   generated by the Program or a modification thereof, in whole or in
+   part, You will release any inputs supplied to the Program and any
+   modifications You made to the Progam.  This License will be in
+   effect for the modified program.
 
-  5. Combined Libraries.
 
-  You may place library facilities that are a work based on the
-Library side by side in a single library together with other library
-facilities that are not Applications and are not covered by this
-License, and convey such a combined library under terms of your
-choice, if you do both of the following:
+V. Disclaimer of Warranty
 
-   a) Accompany the combined library with a copy of the same work based
-   on the Library, uncombined with any other library facilities,
-   conveyed under the terms of this License.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT
+WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND
+PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE
+DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR
+CORRECTION.
 
-   b) Give prominent notice with the combined library that part of it
-   is a work based on the Library, and explaining where to find the
-   accompanying uncombined form of the same work.
 
-  6. Revised Versions of the GNU Lesser General Public License.
+VI. Limitation of Liability
 
-  The Free Software Foundation may publish revised and/or new versions
-of the GNU Lesser General Public License from time to time. Such new
-versions will be similar in spirit to the present version, but may
-differ in detail to address new problems or concerns.
-
-  Each version is given a distinguishing version number. If the
-Library as you received it specifies that a certain numbered version
-of the GNU Lesser General Public License "or any later version"
-applies to it, you have the option of following the terms and
-conditions either of that published version or of any later version
-published by the Free Software Foundation. If the Library as you
-received it does not specify a version number of the GNU Lesser
-General Public License, you may choose any version of the GNU Lesser
-General Public License ever published by the Free Software Foundation.
-
-  If the Library as you received it specifies that a proxy can decide
-whether future versions of the GNU Lesser General Public License shall
-apply, that proxy's public statement of acceptance of any version is
-permanent authorization for you to choose that version for the
-Library.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR
+CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
+ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT
+NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR
+LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM
+TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
