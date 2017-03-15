@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Reconciling Mice and Elephants in Data Centers
+description: This project aims reconciling the contention between Mice and elephant by developing Equal-Share Allocation Queue managment in switching devices used by the data center envirnoments. It enforces rate adaptions by leveraging the explicit feedback of receiver window 
+author: Ahmed MOHAMED ABDELMONIEM SAYED
+author_email: ahmedcs982@gmail.com
