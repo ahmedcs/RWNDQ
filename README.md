@@ -23,8 +23,8 @@ The Copyright of this repository and its subfolders are held exclusively by "Ahm
 
 Any USE or Modification to the (source code, scripts, .., etc) included in this repository has to cite the following PAPERS:  
 
-1- Ahmed M. Abdelmoniemand Brahim Bensaou, “Reconciling Mice and Elephants in Data Center Networks”, in Proceedings of IEEE CloudNet 2015, Vancouver, CA, Oct-2015. http://home.cse.ust.hk/~amas/files/Cloudnet15.pdf  
-2- Ahmed M. Abdelmoniem and Brahim Bensaou, “Efficient Switch-Assisted Congestion Control for Data Centers: an Implementation and Evaluation”, in Proceedings of IEEE IPCCC 2015, Nanjing, China, Dec-2015. A copy of the paper available at http://home.cse.ust.hk/~amas/files/IPCCC15.pdf  
+1- Ahmed M. Abdelmoniemand Brahim Bensaou, “Reconciling Mice and Elephants in Data Center Networks”, in Proceedings of IEEE CloudNet 2015, Vancouver, CA, Oct-2015. 
+2- Ahmed M. Abdelmoniem and Brahim Bensaou, “Efficient Switch-Assisted Congestion Control for Data Centers: an Implementation and Evaluation”, in Proceedings of IEEE IPCCC 2015, Nanjing, China, Dec-2015. 
 
 **Notice, the COPYRIGHT and/or Author Information notice at the header of the (source, header and script) files can not be removed or modified.**
 
